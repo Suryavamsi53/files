@@ -1,0 +1,6 @@
+C:\Users\Surya\OneDrive\Desktop\VueProject\ddui2\ddui\corewcfservice\obj\Debug\net6.0\corewcfservice.csproj.AssemblyReference.cache
+C:\Users\Surya\OneDrive\Desktop\VueProject\ddui2\ddui\corewcfservice\obj\Debug\net6.0\corewcfservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surya\OneDrive\Desktop\VueProject\ddui2\ddui\corewcfservice\obj\Debug\net6.0\corewcfservice.AssemblyInfoInputs.cache
+C:\Users\Surya\OneDrive\Desktop\VueProject\ddui2\ddui\corewcfservice\obj\Debug\net6.0\corewcfservice.AssemblyInfo.cs
+C:\Users\Surya\OneDrive\Desktop\VueProject\ddui2\ddui\corewcfservice\obj\Debug\net6.0\corewcfservice.csproj.CoreCompileInputs.cache
+C:\Users\Surya\OneDrive\Desktop\VueProject\ddui2\ddui\corewcfservice\obj\Debug\net6.0\corewcfservice.MvcApplicationPartsAssemblyInfo.cache
